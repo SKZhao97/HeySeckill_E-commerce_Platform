@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="heySeckill">
+    <output-path>$PROJECT_DIR$/out/artifacts/heySeckill</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="heySeckill" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="heySeckill/web/Web" />
+    </root>
+  </artifact>
+</component>
